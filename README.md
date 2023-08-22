@@ -4,7 +4,6 @@ We recommend that you get the latest version of Cosmetix or there will not be al
 
 All cosmetics are CS and only people that have this mod can see your cosmetics
 
-Scroll down for non important stuff
 
 
 
