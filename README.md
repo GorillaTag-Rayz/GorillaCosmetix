@@ -31,39 +31,6 @@ Scroll down for non important stuff
 
 
 
-Continue
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Go Further
 
 
 
@@ -96,4 +63,13 @@ Go Further
 
 
 
-there is no non important stuff but remember in every game (including non-vr games) CS means Client Sided (you can only see something) and SS means Server Sided (everyone can see something
+
+
+
+
+
+
+
+
+
+
